@@ -1,4 +1,4 @@
-.
+
 #include <iostream>
 #include <cmath>
 const int CAPACITY = 20;
